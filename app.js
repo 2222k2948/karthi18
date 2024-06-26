@@ -1,17 +1,17 @@
 
 // •    Store the following into variables: geographic location, job title.var geographiclocation = "ooty";
- var geographiclocation = "ooty";
+ var geographiclocation = "Kovai";
  var jobtitle= "web develpoer ";
  console.log(jobtitle,geographiclocation);
 
 
  //On a single line, declare three variables with the given names and values: firstName = "Ram" lastName = "Kumar" age = 30.
 
- var firstName="krithish", lastName="kumar",age=19;
+ var firstName="karthi", lastName="L",age=19;
  console.log(firstName,lastName,age);
 
 //  Age Calculator
-let birthYear = 2005;
+let birthYear = 2004;
 let futureYear = 2025;
 let currentAge = futureYear - birthYear;
 let nextAge = currentAge + 1;
